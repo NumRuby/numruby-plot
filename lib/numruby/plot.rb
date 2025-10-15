@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "plot/version"
+require_relative 'plot/version'
 
 module Numruby
   module Plot
